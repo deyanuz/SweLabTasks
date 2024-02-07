@@ -165,7 +165,6 @@ public class Main {
         // Operating SmartTv by remote
         remoteForSmartTv.togglePower();
         remoteForSmartTv.channelUp();
-
         remoteForSmartTv.channelDown();
         remoteForSmartTv.volumeUp();
         remoteForSmartTv.volumeDown();
